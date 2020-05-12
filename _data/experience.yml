@@ -6,7 +6,7 @@
   quote: >
    Cary, NC 
   description: | # this will include new lines to allow paragraphs
-    Every company 
+    Senior Engineer now working in DevOps role. 
 
 - layout: left
   company: IBM
@@ -16,7 +16,9 @@
   quote: >
      London, UK and Research Triangle Park, NC 
   description: | # this will include new lines to allow paragraphs
-      Every company 
+      I joined IBM to work on WebSphere Application Server and WebSphere Portal (now owned by HCL). Both of these are based on Java and I gained a great deal of experience with the JVM, tuning and troublshooting it in particular. 
+      
+      I was a senior member of the technical support team and worked with IBM's largest customers directly on mission critical issues in a 24x7 on-call rotation.
   
 - layout: left
   company: TRW, Inc and Transarc Corp.
