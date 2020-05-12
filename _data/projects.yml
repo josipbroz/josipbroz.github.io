@@ -1,7 +1,7 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: A project
+  link: github.com/josipbroz
+  github: josipbroz/1
   quote: >
     
   description: | # this will include new lines to allow paragraphs
