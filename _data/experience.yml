@@ -1,20 +1,20 @@
 - layout: left
   company: MetLife
   link: metlife.com
-  job_title: Senior Network System Administrator
+  job_title: Senior Engineer
   dates: October 2013 - Present
   quote: >
-   Solving 21st century problems 
+   Cary, NC 
   description: | # this will include new lines to allow paragraphs
     Every company 
 
 - layout: left
   company: IBM
   link: ibm.com
-  job_title: Senior Network System Administrator
+  job_title: Senior Engineer
   dates: July 1999 - October 2013
   quote: >
-     Solving 21st century problems 
+     London, UK and Research Triangle Park, NC 
   description: | # this will include new lines to allow paragraphs
       Every company 
   
