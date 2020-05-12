@@ -18,3 +18,12 @@
   description: | # this will include new lines to allow paragraphs
       Every company 
   
+- layout: left
+  company: TRW, Inc and Transarc Corp.
+  job_title: Engineer
+  dates: 1988 - 1999
+  quote: >
+    Massachusetts, Virginia and London, UK 
+  description: | # this will include new lines to allow paragraphs
+    At TRW I quickly moved from a management trainee role in to technology and continued at Transarc with my first experience with middleware, the DCE.
+    
