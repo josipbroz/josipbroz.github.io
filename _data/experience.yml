@@ -1,0 +1,54 @@
+- layout: left
+  company: MetLife
+  jobs:
+    - title: Senior Engineer DevOps
+      dates: July 2017 - present
+    - title: Senior Engineer
+      dates: October 2013 - July 2017
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Member of a small team that has pioneered the design, implementation and use of container technologies in the organization.
+    
+    Beginning with Docker Swarm in 2017, we moved to Kubernetes and have built the platform on which the enterprise can deploy and maintain applications in Microsoft Azure Kubernetes Service (AKS) and other Kubernetes environments.
+
+    The team builds application and platform pipelines using Azure DevOps and conducts deployments to Azure and on-premise. We also build in configurations so that applications can easily use Splunk, Azure Application Insights, Azure Monitor and other facilities.
+
+    Currently serve as the sole engineer working with an application team that will deploy the first Kubernetes application to production.
+
+    Prior to joining the team responsible for container technologies, I designed and built a CI/CD pipeline for Java applications using Atlassian tools (Bitbucket, Bamboo and JIRA). Application deploy that took hours or longer is now measured in minutes.
+
+    Write utilities in Python and Go.
+
+    Assist teams with logging using Splunk and monitoring using Prometheus and other tools.
+
+    Promote the understanding and use of container technology in the company as well as the use of related tools like git. Often train members of staff and mentor junior members and interns.
+    
+    Assist teams to deploy and maintain both cloud-native and legacy applications across all lines of business.
+
+    **Skills**: Python, Go, Java, JVM, application tuning, troubleshooting, performance analysis, shell scripting, UNIX, Linux, DevOps, Atlassian tools, Azure and Azure DevOps, git, Github, Docker, Kubernetes, containers, container orchestration, CI/CD, REST, JSON, Chef, oral and written communication, database servers, LDAP, Kerberos, TLS.
+
+    **Certifications**: AZ-900 Azure Fundamentals - February 2020
+
+- layout: left
+  company: IBM UK and IBM 
+  job_title: Senior Engineer
+  dates: July 1999 - October 2013
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Supported clients to develop, deploy and maintain Java applications in an SRE-like role. Function as subject matter expert in IBM’s web offerings.
+
+    Performed Java and JVM troubleshooting and debugging, including javacore, threaddump and heap analysis, security and performance tuning and configuration.
+
+    Collaborated with clients to configure databases, LDAPs, authentication systems (OAuth, Siteminder), webservers and other components that comprise an enterprise software solution.
+
+    Member of a team that supported dozens of Fortune 500 companies and smaller firms in a 24/7 on-call rotation where site-related issues meant possible monetary loss and reputational damage. Reviewed and analyzed application and system logging from all the components in an environment, often including low-level network captures and application-level tracing. Resolving issues in a timely manner was critical.
+  
+    Responsible for a dozen or more client issues at any one time and led and managed all client communication, troubleshooting and resolution efforts including post-issue analysis, frequently in a cross-functional team environment. Documented findings in Knowledge Base articles, white papers, and technical presentations.
+
+    Communicated daily with all stakeholders from the executive level to the technical teams. Very adept at helping teams to understand complex technical issues and determine how best to approach and resolve them.
+  
+    In this role I worked with a range of applications from small systems to sites that comprised a client’s entire web presence.
+
+    Developed utilities in shell and Python for team use.

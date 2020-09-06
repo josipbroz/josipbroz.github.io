@@ -9,11 +9,13 @@ title: Senior Engineer DevOps
 email: jbroz@nc.rr.com
 
 # About Section
-# about_title: About Me
+about_title: Summary
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  
+  DevOps Engineer with experience in all phases of application management: develop, build, deploy, operate, monitor, maintain, most recently with containerized microservices on Kubernetes.
 
+github_username:  josipbroz
+linkedin_username: Joe Broz
 
 # Projects Section
 # projects_title: Projects
@@ -26,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+#more_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
